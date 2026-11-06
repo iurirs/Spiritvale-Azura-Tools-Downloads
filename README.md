@@ -39,8 +39,6 @@ All overlays support customizable positioning, size, opacity, and visibility. Az
 
 Node.js and Bun are not required to run the application. History and settings are stored in `%LOCALAPPDATA%\AzuraTools` and are not included in the ZIP package.
 
-> **Distribution:** This repository contains the source code and development documentation. User-ready ZIP packages are available in the public downloads repository.
-
 ## Notes
 
 This repository contains only download information and releases. The application checks for the latest stable release when it opens and displays a notification when a new version is available. Updates are performed manually using a ZIP file.
