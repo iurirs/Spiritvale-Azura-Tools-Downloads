@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 0.10.23</strong> · Windows x64 · Portable
+  <strong>Version 0.10.27</strong> · Windows x64 · Portable
 </p>
 
 ---
@@ -22,6 +22,8 @@
 | **Boss Skills** | Tracks skill casts from up to three bosses and alerts you to Umbral Collapse. |
 | **Boss DPS** | Displays up to three encounters with DPS, TPS, and HPS modes. Only DPS history is saved. |
 | **Personal DPS** | Independently tracks the local player's damage against up to three valid targets. |
+| **Personal Death** | Shows up to three recent deaths of your character, including the attacker, killing skill, and fatal damage. |
+| **Personal Kill** | Shows up to three monsters you killed, including the finishing skill and damage. |
 | **Skill Reminder** | Displays up to three cooldown reminders, each with its own customizable widget. |
 | **Boss Elements** | Recommends elements for bosses in the catalog. |
 | **Build Export** | Saves inspected builds and opens their links in the SpiritValers planner. |
