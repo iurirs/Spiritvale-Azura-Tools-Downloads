@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 0.10.27</strong> · Windows x64 · Portable
+  <strong>Version 0.10.39</strong> · Windows x64 · Portable
 </p>
 
 ---
@@ -24,9 +24,10 @@
 | **Personal DPS** | Independently tracks the local player's damage against up to three valid targets. |
 | **Personal Death** | Shows up to three recent deaths of your character, including the attacker, killing skill, and fatal damage. |
 | **Personal Kill** | Shows up to three monsters you killed, including the finishing skill and damage. |
+| **Gold Dropped / Exp Acquired** | Shows positive gold and character EXP gains, section totals, and rates until the map changes. |
 | **Skill Reminder** | Displays up to three cooldown reminders, each with its own customizable widget. |
 | **Boss Elements** | Recommends elements for bosses in the catalog. |
-| **Build Export** | Saves inspected builds and opens their links in the SpiritValers planner. |
+| **Build Export** | Shows your current character temporarily with planner actions, saves inspected builds, and marks restricted inspections as partial. |
 | **Item Refine** | Automates item refinement using coordinate capture and Safe verification. |
 | **Hotkey Macro** | Manage sequences, profiles, and hotkeys directly from the launcher, powered by AutoHotkey v1.1. |
 
