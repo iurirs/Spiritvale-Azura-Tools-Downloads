@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 0.10.39</strong> · Windows x64 · Portable
+  <strong>Version 0.10.44</strong> · Windows x64 · Portable
 </p>
 
 ---
