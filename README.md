@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 0.10.44</strong> · Windows x64 · Portable
+  <strong>Version 0.10.48</strong> · Windows x64 · Portable
 </p>
 
 ---
@@ -24,7 +24,8 @@
 | **Personal DPS** | Independently tracks the local player's damage against up to three valid targets. |
 | **Personal Death** | Shows up to three recent deaths of your character, including the attacker, killing skill, and fatal damage. |
 | **Personal Kill** | Shows up to three monsters you killed, including the finishing skill and damage. |
-| **Gold Dropped / Exp Acquired** | Shows positive gold and character EXP gains, section totals, and rates until the map changes. |
+| **Gold Dropped / Exp Acquired** | Shows positive gold and EXP gains, section totals, and average rates per minute and hour. Results remain visible for up to 30 seconds after a death or map/channel transition. |
+| **Farm History** | Saves completed farming sections with character, class, map, totals, duration, and rates. Recording is optional and independent of widget visibility. |
 | **Skill Reminder** | Displays up to three cooldown reminders, each with its own customizable widget. |
 | **Boss Elements** | Recommends elements for bosses in the catalog. |
 | **Build Export** | Shows your current character temporarily with planner actions, saves inspected builds, and marks restricted inspections as partial. |
